@@ -1,7 +1,7 @@
 # LoveK
 WordPress Theme
 
-Siren 是基于 Siren 主题修改而来的，当然会更加出色！。
+LoveK 是基于 Siren 主题修改而来的，当然会更加出色！。
 德玛西亚正义！。
 
 最新版本：1.0.0.0<br>
