@@ -7,7 +7,7 @@
  * @package Akina
  */
  
-define( 'SIREN_VERSION', '2.0.6.170420' );
+define( 'SIREN_VERSION', '1.0.0.0' );
 
 if ( !function_exists( 'akina_setup' ) ) :
 /**
